@@ -40,3 +40,5 @@ Acceda a la URL de producción: [radios-online.vercel.app](https://radios-online
 ## Estatus
 
 Estable (v1.0).
+
+---
